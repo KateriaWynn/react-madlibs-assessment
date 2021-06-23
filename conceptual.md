@@ -52,7 +52,7 @@ Answer the following questions below:
 
 - Describe useEffect. What use cases is it used for in React components?
 
-      - The `useEffect` hook is used to run code after a rendering happens. Most commonly this is used to do something after a render, or after the initial render. Examples could
+  - The `useEffect` hook is used to run code after a rendering happens. Most commonly this is used to do something after a render, or after the initial render. Examples could
 
   include communicating with an API, syncing information to local storage, or working with timers.
 
