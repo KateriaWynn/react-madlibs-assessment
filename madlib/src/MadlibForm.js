@@ -9,7 +9,7 @@ const MadlibForm = () => {
   return (
     <div className="madlib-form">
       <h1>Mad Libs Guided Imagery</h1>
-      <p>A mindfulness exercice by Chicago Mind</p>
+      <p>A mindfulness exercise by Chicago Mind</p>
       <Formik
         initialValues={{
           breathsOne: '',
