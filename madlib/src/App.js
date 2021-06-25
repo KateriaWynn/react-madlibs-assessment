@@ -1,10 +1,10 @@
 import React from 'react';
-import Madlib from './Madlib';
+import MadlibForm from './MadlibForm';
 
 function App() {
   return (
     <div className="App">
-      <Madlib />
+      <MadlibForm />
     </div>
   );
 }
